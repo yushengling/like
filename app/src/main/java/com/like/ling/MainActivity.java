@@ -12,10 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(getApplicationContext(), "nihao", Toast.LENGTH_SHORT).show();
-        //开始
-        //有开始写嗲吗
-        //网络请求框架开始编写
-        //需啊哟
-        //搭建矿建
+      //删除注释
     }
 }
